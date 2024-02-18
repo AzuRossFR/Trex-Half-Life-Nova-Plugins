@@ -1,5 +1,5 @@
 PLUGIN.name = "HUD"
-PLUGIN.author = "Khall"
+PLUGIN.author = "Khall & AzuRoss"
 PLUGIN.description = "HUD Retravaillé par l'équipe de Trex"
 
 
