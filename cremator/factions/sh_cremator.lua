@@ -17,6 +17,9 @@ FACTION.taglines = {
 	"LAME",
 	"CLEANER",
 	"FIRE",
+	"CONTAIN",
+	"BREACH",
+	"OVER",
 	"DAGUE"
 }
 
