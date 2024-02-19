@@ -1,5 +1,5 @@
 SWEP.PrintName = "Menotté"
-SWEP.Author = "Trex"
+SWEP.Author = "TrexStudio"
 SWEP.Category = "TrexSCP | SWEP"
 SWEP.Slot = 0
 SWEP.SlotPos = 0
